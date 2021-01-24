@@ -1,4 +1,4 @@
-<html><head>
+html><head>
 <style> 
 
 body {
@@ -17,3 +17,4 @@ body {
 <marquee behavior="scroll" direction="left">TOMORROW</marquee><b>
 <p align="center"> <image src="Today-Tomorrow.jpg" width = 220, length = 220> </img> <br>
 </b></font></b></font></p></body></html>
+© 2021 GitHub, Inc.
